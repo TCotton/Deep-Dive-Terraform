@@ -13,7 +13,7 @@
 
 # .pem files
 *.pem
-
+.DS_Store
 # Consul data directories
 **/application_config/*
 
