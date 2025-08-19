@@ -15,8 +15,10 @@
 *.pem
 
 # Consul data directories
-**/network_config/*
 **/application_config/*
 
 # .hcl files
 *.hcl
+
+.idea/
+m3/cloud_formation_template/table.txt
