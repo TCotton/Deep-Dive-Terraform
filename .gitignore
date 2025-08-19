@@ -22,3 +22,4 @@
 
 .idea/
 m3/cloud_formation_template/table.txt
+network_config/backend_local.tf
