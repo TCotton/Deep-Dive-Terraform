@@ -70,7 +70,7 @@ terraform init
 
 # Replace the organization name with your org name
 # PowerShell environment variable
-terraform apply -var="gh_pat=$env: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" -var="organization=deep-dive-1975"
+terraform apply -var="gh_pat=$env:" -var="organization=deep-dive-1975"
 
 # Bash or zsh environment variable
 terraform apply -var="gh_pat=$GITHUB_TOKEN" -var="organization=ORG_NAME"
